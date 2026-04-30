@@ -1,7 +1,6 @@
 # Prime Generator CPP
 
-A high-performance prime number generation application written in **C++**, featured in the *Multi-Threading* section of the **Understanding Node.js: Core Concepts** course.
-
+A high-performance prime number generation application written in **C++**.
 This project is also used as a **native addon in Node.js**, demonstrating:
 - Native multi-threading
 - Performance optimization beyond JavaScript
